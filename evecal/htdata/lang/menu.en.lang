@@ -1,0 +1,13 @@
+[main]
+TXT_SPORT       = Sport
+TXT_THEATER     = Theatre
+TXT_KONZERT     = Concerts
+TXT_GASTRO      = Restaurant Events
+TXT_IMPRESSUM   = Imprint
+
+[head]
+TXT_SEARCH      = Search
+TXT_EVENT       = New Event
+TXT_USER        = "(Login/Administration/My Account)"
+TXT_PRINT       = Print
+TXT_LANG        = "(English/German)"

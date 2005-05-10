@@ -1,0 +1,13 @@
+[main]
+TXT_SPORT       = Sport
+TXT_THEATER     = Theater
+TXT_KONZERT     = Konzerte
+TXT_GASTRO      = "Essen & Trinken"
+TXT_IMPRESSUM   = Impressum
+
+[head]
+TXT_SEARCH      = Suchen
+TXT_EVENT       = Termin eingeben
+TXT_USER        = "(Login/Administration/Mein Account)"
+TXT_PRINT       = Drucken
+TXT_LANG        = "(Englisch/Deutsch)"

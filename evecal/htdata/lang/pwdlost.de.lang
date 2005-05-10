@@ -1,0 +1,25 @@
+[head]
+TXT_LANG    = de
+TXT_TITLE   = "Freizeitkalender - Passwort vergessen?"
+TXT_APPL_H1 = Freizeitkalender
+
+[pwd_lost]
+TXT_H2      = "Passwort vergessen?"
+TXT_PWDLOST = "Bitte geben Sie Ihren Nicknamen/Benutzernamen in das Eingabefeld ein und klicken Sie auf den Absende-Button. Ihr Passwort wird Ihnen dann an Ihre im Benutzerprofil eingetragene E-Mail-Adresse zugeschickt."
+TXT_BUTTON  = "Abschicken"
+
+[no_input]
+TXT_H2      = "Passwort vergessen? - Welcher Benutzername?"
+TXT_PWDLOST = "Sie haben vergessen, Ihren Benutzernamen einzugeben - ohne Benutzernamen können wir Ihnen natürlich nur schlecht helfen ..."
+TXT_BUTTON  = "Abschicken"
+
+[no_nick]
+TXT_H2      = "Passwort vergessen? - Ein Fehler ist aufgetreten!"
+TXT_PWDLOST = "Es konnte kein Passwort ermittelt werden. War Ihre Eingabe korrekt?"
+TXT_BUTTON  = "Abschicken"
+
+[send]
+TXT_H2      = "Passwort vergessen? - Passwort zugesendet"
+TXT_SEND    = "Das aktuelle Passwort wurde an die hinterlegte E-Mail-Adresse versendet. Bitte nutzen Sie dieses Passwort für Ihr nächstes Login!"
+TXT_LOGIN   = "Um sich einzuloggen, folgen Sie bitte diesem Link:"
+TXT_LOGIN_LNK = "Zum Login"

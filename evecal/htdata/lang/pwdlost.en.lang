@@ -1,0 +1,25 @@
+[head]
+TXT_LANG    = en
+TXT_TITLE   = "Leisure calendar - Tips and Events about Theatre, Concerts, Sports and Restaurants"
+TXT_APPL_H1 = Leisure calendar
+
+[pwd_lost]
+TXT_H2      = "Forgot your password?"
+TXT_PWDLOST = "Please insert your nickname into the input field and click the send button. Your password will be send to your user profile notated email address."
+TXT_BUTTON  = "Send"
+
+[no_input]
+TXT_H2      = "Forgot your password? - Which nickname?"
+TXT_PWDLOST = "You've forgot to input your nickname - without that one we can't help you ..."
+TXT_BUTTON  = "Send"
+
+[no_nick]
+TXT_H2      = "Forgot your password? - An error occured!"
+TXT_PWDLOST = "We can't find a password by the nick you've get. Are you sure at this?"
+TXT_BUTTON  = "Send"
+
+[send]
+TXT_H2      = "Forgot your password? - Your password was send by email"
+TXT_SEND    = "Your current password was send to your email address as saved in your user profile. Please use the emailed password if you log in next time."
+TXT_LOGIN   = "Follow this link to log in:"
+TXT_LOGIN_LNK = "Go to login"
